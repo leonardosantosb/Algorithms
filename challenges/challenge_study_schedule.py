@@ -13,4 +13,4 @@ def study_schedule(permanence_period, target_time):
     return count
 
 
-raise NotImplementedError
+    raise NotImplementedError
